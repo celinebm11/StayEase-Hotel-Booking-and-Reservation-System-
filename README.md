@@ -69,13 +69,13 @@ To develop a Java-based application that simplifies hotel room reservations and 
 ## 8. Team Members and Roles
 
 Team Member 
-MORENO, JUSHLEY R.
+1. MORENO, JUSHLEY R.
 - Project Leader – Guides the group, tracks deadlines, and keeps the project on schedule.
-SULIT, CECILE A.
+2. SULIT, CECILE A.
 - Lead Programmer – Handles Java classes, methods, and OOP features.
-DUBLA, ALTHEA NECOLE O.
+3. DUBLA, ALTHEA NECOLE O.
 - System Designer – Plans system requirements, class designs, UML diagrams, and program layout.
-MAGALING, CELINE B.
+4. MAGALING, CELINE B.
 - Documentation and Testing – Updates the README, test records, and screenshots, and helps check system functionality.
 
 ## 9. OOP Concepts Demonstrated
