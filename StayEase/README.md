@@ -1,5 +1,5 @@
 
-# Project Title
+# StayEase: Hotel Booking and Reservation System
 
 > Making hotel reservations easier, faster, and more organized through a user-friendly desktop application.
 
@@ -47,15 +47,22 @@ To develop a Java Swing-based Hotel Booking and Reservation System that allows g
 
 | User Type | Description | How They Use the System |
 |-----------|-------------|-------------------------|
-| e.g., Admin | Hotel administrators responsible for managing reservations and room information. | Browses room categories, checks availability, views prices, enters booking information, submits simulated payments, and receives booking receipts. |
-| e.g., Customer | Individuals who want to reserve hotel rooms | Accesses the administrator portal, monitors bookings, verifies GCash payments, updates room statuses, manages check-in/check-out, and handles eligible cancellations and refunds. |
+| Admin | Hotel administrators responsible for managing reservations and room information. | Browses room categories, checks availability, views prices, enters booking information, submits simulated payments, and receives booking receipts. |
+| Guest | Individuals who want to reserve hotel rooms | Accesses the administrator portal, monitors bookings, verifies GCash payments, updates room statuses, manages check-in/check-out, and handles eligible cancellations and refunds. |
 
 ## Main Features
 
-- **Feature 1:** Brief description
-- **Feature 2:** Brief description
-- **Feature 3:** Brief description
-- **Feature 4:** Brief description
+- **Guest Room Browsing:** Displays 22 sample hotel rooms categorized into Single, Double, Deluxe, and Suite. Guests can view room descriptions, prices, bed information, capacity, and availability.
+- **Room Category Filtering:** Allows guests to filter rooms according to their preferred room category and select rooms marked as Available.
+- **Guest Booking Form:** Collects guest name, email address, contact number, check-in and check-out dates, and number of guests. It also validates the entered information.
+- **Booking Cost Calculation:** Automatically calculates the number of nights, room subtotal, applicable discount, 12% tax, and final booking amount.
+- **Payment System:** Provides simulated Cash and Credit/Debit Card payments, as well as GCash submission with transaction details and screenshot for administrator verification.
+- **Booking Receipt:** Displays the booking confirmation, reference number, and payment summary.
+- **Administrator Portal:** Provides a password-protected dashboard for viewing booking records, room inventory, and room availability.
+- **Payment Verification:** Allows administrators to review GCash submissions and approve or reject pending payments.
+- **Room and Reservation Management:** Allows administrators to update room statuses, confirm guest check-in and check-out, and cancel eligible reservations.
+- **Refund Management:** Records full refunds for eligible paid or approved bookings cancelled at least three days before check-in. Cancellations made less than three days before check-in receive no refund.
+
 
 ## Technologies Used
 
