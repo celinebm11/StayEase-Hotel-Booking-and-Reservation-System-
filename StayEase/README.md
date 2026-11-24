@@ -136,22 +136,32 @@ To develop a Java Swing-based Hotel Booking and Reservation System that allows g
 
 ## Known Limitations
 
-- Limitation 1 (e.g., data is not saved after closing the program)
-- Limitation 2 (e.g., no input validation for ...)
-- Limitation 3
+- Sample Data: The application uses sample hotel room and booking data for demonstration purposes.
+- No Persistent Database: Room and booking records are stored in memory and are not permanently saved in a database.
+- Simulated Payments: Cash, Credit/Debit Card, and GCash transactions are demonstrations and are not connected to actual banking or payment services.
+- Manual GCash Verification: GCash payment submissions require manual administrator review and approval.
+- Simple Authentication: Administrator access uses a password-based authentication system.
+- Limited Guest Account Features: Guests do not currently have personal accounts or a guest-facing cancellation page.
 
 ## Future Improvements
 
-- [ ] Improvement 1
-- [ ] Improvement 2
-- [ ] Improvement 3
+- [ ] Integrate a database such as MySQL to permanently store guest information, room records, and reservations.
+- [ ] Add guest registration and login functionality.
+- [ ] Implement a guest-facing reservation history and cancellation page.
+- [ ] Improve administrator authentication and account security.
+- [ ] Add automatic email notifications for booking confirmations and payment updates.
+- [ ] Generate more detailed hotel occupancy and revenue reports.
+- [ ] Improve the graphical interface and overall user experience.
 
 ## Project Contributors
 
-- **Full Name** – Role – [GitHub/Email]
-- **Full Name** – Role – [GitHub/Email]
-- **Full Name** – Role – [GitHub/Email]
+- **MORENO, JUSHLEY R.** – Project Leader – ![GITHUB](https://github.com/jush13y)
+- **SULIT, CECILE A.** – Lead Programmer – ![GITHUB]([https://github.com/jush13y](https://github.com/shycile24))
+- **DUBLA, ALTHEA NECOLE O.** – System/Design Lead – ![GITHUB]([https://github.com/jush13y](https://github.com/ioan01230123))
+- **MAGALING, CELINE B.**– Documentation – ![GITHUB]([https://github.com/jush13y](https://github.com/celinebm11))
+
+
 
 ---
 
-*Course / Section / School Name – Academic Year*
+*OOP 101 – Object-Oriented Programming | Section IT-2111 | Batangas State University – The National Engineering University | Academic Year 2026–2027*
