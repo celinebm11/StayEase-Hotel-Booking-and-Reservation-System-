@@ -157,7 +157,7 @@ To develop a Java Swing-based Hotel Booking and Reservation System that allows g
 
 - **MORENO, JUSHLEY R.** – Project Leader – ![GITHUB](https://github.com/jush13y)
 - **SULIT, CECILE A.** – Lead Programmer – ![GITHUB]([https://github.com/jush13y](https://github.com/shycile24))
-- **DUBLA, ALTHEA NECOLE O.** – System/Design Lead – ![GITHUB]([https://github.com/jush13y](https://github.com/ioan01230123))
+- **DUBLA, ALTHEA NECOLE O.** – System/Design Lead – ![GITHUB]([https://github.com/jush13y](https://github.com/ioan0123))
 - **MAGALING, CELINE B.**– Documentation – ![GITHUB]([https://github.com/jush13y](https://github.com/celinebm11))
 
 
