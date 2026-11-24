@@ -68,29 +68,29 @@ To develop a Java Swing-based Hotel Booking and Reservation System that allows g
 
 | Category | Technology |
 |----------|------------|
-| Language | e.g., Java / Python / C++ |
-| IDE / Editor | e.g., IntelliJ IDEA, VS Code |
-| Libraries / Frameworks | e.g., JavaFX, Swing, Tkinter |
-| Database / Storage | e.g., MySQL, SQLite, text files |
+| Language | Java |
+| IDE / Editor | VS Code |
+| Libraries / Frameworks | Java Swing |
+| Database / Storage | Java Collections (ArrayList) and sample in-memory data |
 | Version Control | Git / GitHub |
 
 ## Team Members and Roles
 
 | Name | Role | Responsibilities |
 |------|------|------------------|
-| Member 1 | Project Leader | Planning, coordination, core logic |
-| Member 2 | Developer | Classes and methods for ... |
-| Member 3 | UI Designer | Interface and user flow |
-| Member 4 | Tester / Documenter | Testing, bug reports, documentation |
+| MORENO, JUSHLEY R. | Project Leader | Guides the group, tracks deadlines, and keeps the project on schedule. |
+| SULIT, CECILE A | Lead Programmer | Leads the coding of Java classes, methods, and OOP features. |
+| DUBLA, ALTHEA NECOLE O. | System/Design Lead | Plans the system requirements, class designs, UML diagrams, and overall program layout. |
+| MAGALING, CELINE B. | Documentation | Updates the README, test records, and screenshots, and helps check that all features work properly. |
 
 ## OOP Concepts Demonstrated
 
 | Concept | Where It Is Applied | Explanation |
 |---------|---------------------|-------------|
-| **Encapsulation** | `ClassName` | Private attributes with getters/setters |
-| **Inheritance** | `ChildClass` extends `ParentClass` | Reuses shared attributes and behavior |
-| **Polymorphism** | `methodName()` | Method overriding / overloading example |
-| **Abstraction** | `AbstractClass` / `Interface` | Hides implementation details |
+| **Encapsulation** | `Model.java, Service.java` | Groups related data and operations into classes such as Room, Booking, Hotel, and Service. Data access is managed through appropriate methods and validation. |
+| **Inheritance** | `GuestPortal.java, AdminPortal.java, Portal.java` | GuestPortal and AdminPortal extend the shared Portal class, allowing them to reuse common GUI components and methods. |
+| **Polymorphism** | `Custom Java Swing Components` | Demonstrates method overriding through methods such as paintComponent(), which customizes the appearance of GUI components. |
+| **Abstraction** | `Portal.java, Model.java, Service.java` | Separates graphical interface components, data structures, and business operations to organize the application and hide unnecessary implementation details. |
 
 *(Add or remove rows depending on what your project uses.)*
 
