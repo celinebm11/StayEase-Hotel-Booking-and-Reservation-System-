@@ -79,7 +79,7 @@ To develop a Java Swing-based Hotel Booking and Reservation System that allows g
 | Name | Role | Responsibilities |
 |------|------|------------------|
 | MORENO, JUSHLEY R. | Project Leader | Guides the group, tracks deadlines, and keeps the project on schedule. |
-| SULIT, CECILE A | Lead Programmer | Leads the coding of Java classes, methods, and OOP features. |
+| SULIT, CECILE A. | Lead Programmer | Leads the coding of Java classes, methods, and OOP features. |
 | DUBLA, ALTHEA NECOLE O. | System/Design Lead | Plans the system requirements, class designs, UML diagrams, and overall program layout. |
 | MAGALING, CELINE B. | Documentation | Updates the README, test records, and screenshots, and helps check that all features work properly. |
 
@@ -92,38 +92,47 @@ To develop a Java Swing-based Hotel Booking and Reservation System that allows g
 | **Polymorphism** | `Custom Java Swing Components` | Demonstrates method overriding through methods such as paintComponent(), which customizes the appearance of GUI components. |
 | **Abstraction** | `Portal.java, Model.java, Service.java` | Separates graphical interface components, data structures, and business operations to organize the application and hide unnecessary implementation details. |
 
-*(Add or remove rows depending on what your project uses.)*
-
 ## Instructions for Running the Program
 
 ### Prerequisites
-- Install [language/runtime and version]
-- Install [IDE or tools, if needed]
-
+- Install the Java Development Kit (JDK).
+- Install Visual Studio Code.
+- Install the Java Extension Pack in Visual Studio Code.
+- Make sure Java is properly configured on your computer.
+  
 ### Steps
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/username/repository-name.git](https://github.com/celinebm11/StayEase-Hotel-Booking-and-Reservation-System-
    ```
 2. Open the project folder:
    ```bash
-   cd repository-name
+   cd StayEase-Hotel-Booking-and-Reservation-System-
    ```
-3. Compile and run:
+3. Compile the Java files::
    ```bash
-   # Replace with the command for your language
-   javac Main.java
-   java Main
+   #javac *.java
    ```
-4. Follow the on-screen prompts.
+4. Run the application:
+   ```bash
+   java MainMenu
+   ```
+5. The StayEase application window will appear. Choose the Guest Portal or Admin Portal to access the available functions.
 
 ## Sample Screenshots
 
 | Screen | Preview |
 |--------|---------|
 | Main Menu | ![Main Menu](screenshots/main-menu.png) |
-| Feature 1 | ![Feature 1](screenshots/feature1.png) |
-| Feature 2 | ![Feature 2](screenshots/feature2.png) |
+| Guest Portal | ![Guest Portal](screenshots/guest-portal.png) |
+| Room Browsing | ![Room Browsing](screenshots/room-browsing.png) |
+| Booking Form | ![Booking Form](screenshots/booking-form.png) |
+| Booking Summary | ![Booking Summary](screenshots/booking-summary.png) |
+| Payment Interface | ![Payment Interface](screenshots/payment.png) |
+| Booking Receipt | ![Booking Receipt](screenshots/receipt.png) |
+| Admin Dashboard | ![Admin Dashboard](screenshots/admin-dashboard.png) |
+| Booking Management | ![Booking Management](screenshots/booking-management.png) |
+
 
 ## Known Limitations
 
