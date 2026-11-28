@@ -47,8 +47,8 @@ To develop a Java Swing-based Hotel Booking and Reservation System that allows g
 
 | User Type | Description | How They Use the System |
 |-----------|-------------|-------------------------|
-| Admin | Hotel administrators responsible for managing reservations and room information. | Browses room categories, checks availability, views prices, enters booking information, submits simulated payments, and receives booking receipts. |
-| Guest | Individuals who want to reserve hotel rooms | Accesses the administrator portal, monitors bookings, verifies GCash payments, updates room statuses, manages check-in/check-out, and handles eligible cancellations and refunds. |
+| Admin | Hotel administrators responsible for managing reservations and room information. | Accesses the administrator portal, monitors bookings, verifies GCash payments, updates room statuses, manages check-in/check-out, and handles eligible cancellations and refunds. |
+| Guest | Individuals who want to reserve hotel rooms | Browses room categories, checks availability, views prices, enters booking information, submits simulated payments, and receives booking receipts. |
 
 ## Main Features
 
